@@ -9,8 +9,9 @@ I'm a passionate developer skilled in both Java and PL/SQL, with a strong intere
 ### Skills
 
 - Programming Languages: Java, Scala, PL/SQL, SQL, JavaScript
-- Java Frameworks: Spring Boot, Hibernate
+- Frameworks: Spring Boot, Hibernate, Express.js
 - Databases: Oracle Database, MySQL
+- CI/CD: Docker, Github Actions
 
 ### Find Me Online
 
